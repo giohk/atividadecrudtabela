@@ -2,13 +2,14 @@
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
-
+    <link rel="stylesheet" href="style.css">
     <meta name="viewport" content="width=device-width, initial-
 scale=1.0">
 
     <title>Crud Playlist</title>
 </head>
 <body>
+    
 <h1>Gerenciamento de Musicas</h1>
     <form action="store.php" method="POST">
         <label>Nome:</label>
